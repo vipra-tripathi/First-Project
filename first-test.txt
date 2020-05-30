@@ -1,2 +1,10 @@
 Hello, This is my first file.
 Now, i'm updating this file.
+Hi, now i changed the file from local. And going to push in git.
+For this i have to follow 3 steps:
+1)add local file to staging area
+2)commit to local git(.git) repository(Version id created  and same going to git)
+3)push to git repository
+
+clone
+pull
