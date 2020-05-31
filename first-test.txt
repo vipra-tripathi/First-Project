@@ -9,4 +9,4 @@ For this i have to follow 3 steps:
 clone
 pull
 git merge in mster
-git
+git merge changes in master 2
