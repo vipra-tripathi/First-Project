@@ -10,3 +10,5 @@ clone
 pull
 git merge in mster
 git merge changes in master 2
+
+hit merge using git command

@@ -1,2 +1,4 @@
 Hello second file
 Hi
+
+hit merge using git command
